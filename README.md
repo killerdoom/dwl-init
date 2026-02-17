@@ -1,3 +1,3 @@
 # dwl-init
 
-solo un pequeño programa para mi.
+Lanzar DWL con slstatus.
